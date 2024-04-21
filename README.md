@@ -1,1 +1,1 @@
-# Miniatura5_data_Cardiac_MRI_CBIR
+# Miniatura 5: A Report on Work: Cardiac MRI CBIR for Pathologies Detetion data
